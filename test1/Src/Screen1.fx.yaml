@@ -1,0 +1,14 @@
+Screen1 As screen:
+
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =68
+        Y: =106
+        ZIndex: =1
+
+    Label1 As label:
+        Text: ="Text"
+        X: =126
+        Y: =222
+        ZIndex: =2
+
